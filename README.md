@@ -3,7 +3,7 @@
 
 - 👨🏽‍🏫 Atualmente trabalho ministrando cursos de Qualificação Profissional e Hardware e Software .
 - 📚 Estudando Análise e Desenvolvimento de Sistemas, 5º Semestre - Vespertino - Fatec Zona Leste.
-- 
+  
 <a href="https://github.com/kauank8/kauank8/edit/main/README.md">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauank8&layout=compact"/>
 </a>
