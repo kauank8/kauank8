@@ -1,8 +1,8 @@
 ### Olá me chamo Kauan Paulino👋
 
 
-- 👨🏽‍🏫 Atualmente trabalho ministrando cursos de Qualificação Profissional e Hardware e Software .
-- 📚 Estudando Análise e Desenvolvimento de Sistemas, 5º Semestre - Vespertino - Fatec Zona Leste.
+- 👨🏽‍🏫 Trabalhei ministrando cursos de Qualificação Profissional e Hardware e Software na empresa Missão Intensidade .
+- 📚 Formado em Análise e Desenvolvimento de Sistemas - Fatec Zona Leste.
   
 <a href="https://github.com/kauank8/kauank8/edit/main/README.md">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauank8&layout=compact"/>
@@ -17,7 +17,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
+![Angular](https://img.shields.io/jsdelivr/npm/:period/:scope/:packageName)&nbsp;
 ## Banco de Dados
 ![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
